@@ -1,0 +1,38 @@
+2026-02-15 09:26:29,556 INFO Default admin created
+2026-02-15 09:31:04,218 INFO generated new fontManager
+2026-02-15 09:31:06,437 INFO Default admin created
+2026-02-15 09:33:21,148 INFO Default admin created
+2026-02-15 09:33:21,566 INFO Added student Ali Veli
+2026-02-15 09:33:21,664 INFO Attendance for 1: Gelen
+2026-02-15 09:33:21,748 INFO Appointment added for student 1 with teacher 1 at 2026-02-15T09:33:21.664567
+2026-02-15 09:33:21,831 INFO Appointment added for student 1 with teacher 1 at 2026-02-16T09:33:21.664567
+2026-02-15 09:33:21,914 INFO Appointment added for student 1 with teacher 1 at 2026-02-17T09:33:21.664567
+2026-02-15 09:33:21,999 INFO Appointment added for student 1 with teacher 1 at 2026-02-19T09:33:21.664567
+2026-02-15 09:33:42,573 INFO Default admin created
+2026-02-15 09:33:42,957 INFO Added student Ali Veli
+2026-02-15 09:33:43,025 INFO Attendance for 1: Gelen
+2026-02-15 09:33:43,093 INFO Appointment added for student 1 with teacher 1 at 2026-02-15T09:33:43.027035
+2026-02-15 09:33:43,157 INFO Appointment added for student 1 with teacher 1 at 2026-02-16T09:33:43.027035
+2026-02-15 09:33:43,226 INFO Appointment added for student 1 with teacher 1 at 2026-02-17T09:33:43.027035
+2026-02-15 09:33:43,303 INFO Appointment added for student 1 with teacher 1 at 2026-02-19T09:33:43.027035
+2026-02-15 09:34:09,687 INFO Default admin created
+2026-02-15 09:34:10,152 INFO Added student Ali Veli
+2026-02-15 09:34:10,240 INFO Attendance for 1: Gelen
+2026-02-15 09:34:10,317 INFO Appointment added for student 1 with teacher 1 at 2026-02-15T09:34:10.241547
+2026-02-15 09:34:10,396 INFO Appointment added for student 1 with teacher 1 at 2026-02-16T09:34:10.241547
+2026-02-15 09:34:10,464 INFO Appointment added for student 1 with teacher 1 at 2026-02-17T09:34:10.241547
+2026-02-15 09:34:10,563 INFO Appointment added for student 1 with teacher 1 at 2026-02-19T09:34:10.241547
+2026-02-15 09:34:49,780 INFO Default admin created
+2026-02-15 09:34:50,235 INFO Added student Ali Veli
+2026-02-15 09:34:50,314 INFO Attendance for 1: Gelen
+2026-02-15 09:34:50,415 INFO Appointment added for student 1 with teacher 1 at 2026-02-09T18:34:50.315708
+2026-02-15 09:34:50,778 INFO Appointment added for student 1 with teacher 1 at 2026-02-10T18:34:50.315708
+2026-02-15 09:34:51,108 INFO Appointment added for student 1 with teacher 1 at 2026-02-11T18:34:50.315708
+2026-02-15 09:34:51,672 INFO Appointment added for student 1 with teacher 1 at 2026-02-10T03:30:00
+2026-02-15 09:34:51,672 WARNING Telegram token veya chat_id eksik; mesaj gönderilemedi
+2026-02-15 09:36:21,436 INFO Default admin created
+2026-02-15 09:36:48,294 INFO Default admin created
+2026-02-15 09:36:52,943 INFO Added student Deniz Kaya
+2026-02-15 09:36:53,011 INFO Attendance for 1: Gelen
+2026-02-15 09:36:53,011 WARNING Telegram token veya chat_id eksik; mesaj gönderilemedi
+2026-02-15 09:36:55,414 INFO Telegram token kaydedildi
